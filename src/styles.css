@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .question-section,
+  .result {
+    margin-bottom: 20px;
+  }
+  
+  .options-section {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
